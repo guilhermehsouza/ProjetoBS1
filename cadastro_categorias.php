@@ -19,6 +19,30 @@
         <p>Loja de Celulares</p>
     </div>
     
+    <div class="container">
+    
+        <div class="row">
+
+            <div class="col-sm-8 mx-auto">
+            
+                <form action="#" method="post" class="border border-info mt-3 p-5">
+                
+                    <p>
+                        Digite o nome da categoria
+                        <input type="text" name="nomecategoria" class="form-control">
+                    </p>
+
+                    <p>
+                        <input type="submit" value="Cadastrar" class="btn btn-info">
+                    </p>
+                
+                </form>
+            
+            </div>
+        
+        </div>
+    
+    </div>
    
     
 </body>

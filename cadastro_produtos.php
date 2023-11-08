@@ -19,6 +19,23 @@
         <p>Loja de Celulares</p>
     </div>
     
+    <div class="container">
+    
+        <div class="row">
+
+            <div class="col-sm-8 mx-auto">
+            
+                <form action="#" method="post" class="border border-info mt-3 p-5">
+                
+
+                
+                </form>
+            
+            </div>
+        
+        </div>
+    
+    </div>
 
     
 </body>
