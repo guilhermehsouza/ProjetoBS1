@@ -42,8 +42,8 @@ Guilherme
                 <h3 class="border border-info rounded text-center p-1">Cadastro de Categorias</h3>
                 <p>Esta opção será utilizada para cadastrar os Categorias.</p>
                 <p class="text-center">
-                    <a href="cadastro_categorias.html" class="btn btn-info">Cadastro</a>
-                    <a href="consulta_categorias.html" class="btn btn-info">Consulta</a>
+                    <a href="cadastro_categorias.php" class="btn btn-info">Cadastro</a>
+                    <a href="consulta_categorias.php" class="btn btn-info">Consulta</a>
                 </p>
             </div>
 
