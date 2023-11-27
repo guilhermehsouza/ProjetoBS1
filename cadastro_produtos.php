@@ -20,21 +20,49 @@
     </div>
     
     <div class="container">
-    
         <div class="row">
+            <div class="col-sm-8 mx-auto border border-danger p-3 rounded">
 
-            <div class="col-sm-8 mx-auto">
-            
-                <form action="#" method="post" class="border border-info mt-3 p-5">
+                <form action="cadastro_adm1.php" method="post">
                 
+                    <p>
+                        Digite a descrição do produto
+                        <input type="text" name="nome" class="form-control">
+                    </p>
 
+                    <p>
+                        Digite o preçco do produto
+                        <input type="text" name="email" class="form-control">
+                    </p>
+
+                    <p>
+                        Digite a quantidade em estoque
+                        <input type="password" name="senha" class="form-control">
+                    </p>
+
+                    <p>
+                        Escolha a categoria
+                        <select name="categoria" class="form-control">
+                            <option value="">Escolha a categoria</option>
+                        </select>
+                    </p>
+
+                    <p>
+                        <input type="submit" value="Cadastrar" class="btn btn-danger">
+                        <a href="index.php" class="btn btn-link text-danger">Voltar</a>
+                    </p>
                 
                 </form>
             
+            
             </div>
-        
         </div>
-    
+
+        <div class="row">
+            <div class="col-sm-12 mt-5">
+                <h3 class="text-center text-danger">Trabalho desenvolvido pelo aluno < informar o seu nome ></h3>
+            </div>
+        </div>
     </div>
 
     

@@ -34,12 +34,19 @@
 
                     <p>
                         <input type="submit" value="Cadastrar" class="btn btn-info">
+                        <a href="index.php" class="btn btn-link text-info">Voltar</a>
                     </p>
                 
                 </form>
             
             </div>
         
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 mt-5">
+                <h3 class="text-center text-info">Trabalho desenvolvido pelo aluno < informar o seu nome ></h3>
+            </div>
         </div>
     
     </div>

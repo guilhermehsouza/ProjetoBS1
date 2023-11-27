@@ -33,8 +33,8 @@ Guilherme
                 <p>Esta opção será utilizada para cadastrar os administradores.</p>
                 
                 <p class="text-center">
-                    <a href="cadastro_adm.html" class="btn btn-success">Cadastro</a>
-                    <a href="consulta_adm.html" class="btn btn-success">Consulta</a>
+                    <a href="cadastro_adm.php" class="btn btn-success">Cadastro</a>
+                    <a href="consulta_adm.php" class="btn btn-success">Consulta</a>
                 </p>
             </div>
 
@@ -51,9 +51,15 @@ Guilherme
                 <h3 class="border border-danger rounded text-center p-1">Cadastro de Produtos</h3>
                 <p>Esta opção será utilizada para cadastrar os Produtos.</p>
                 <p class="text-center">
-                    <a href="cadastro_produtos.html" class="btn btn-danger">Cadastro</a>
-                    <a href="consulta_produtos.html" class="btn btn-danger">Consulta</a>
+                    <a href="cadastro_produtos.php" class="btn btn-danger">Cadastro</a>
+                    <a href="consulta_produtos.php" class="btn btn-danger">Consulta</a>
                 </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 mt-5">
+                <h3 class="text-center text-dark">Trabalho desenvolvido pelo aluno < informar o seu nome ></h3>
             </div>
         </div>
     </div>
